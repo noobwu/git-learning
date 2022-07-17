@@ -3,3 +3,5 @@ Have a good time!
 
 Using git commit command.
 
+Using git diff command.
+
